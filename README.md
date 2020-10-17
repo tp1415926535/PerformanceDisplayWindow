@@ -1,7 +1,7 @@
 # 性能悬浮窗(PerformanceDisplayWindow)   
    
 当前版本v1.0   
-下载地址：[Github](https://github.com/tp1415926535/PerformanceDisplayWindow/raw/main/%E6%80%A7%E8%83%BD%E6%82%AC%E6%B5%AE%E7%AA%97.rar)   
+下载地址：【[Github](https://github.com/tp1415926535/PerformanceDisplayWindow/raw/main/%E6%80%A7%E8%83%BD%E6%82%AC%E6%B5%AE%E7%AA%97.rar)/ [蓝奏云](https://wws.lanzous.com/iv7vwhijd1i)】，解压后运行“**性能悬浮窗.exe**”即可。   
    
     
 **显示**
